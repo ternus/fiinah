@@ -1,0 +1,22 @@
+body {
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   text-shadow: 1px 1px lightgray;
+     }
+
+#container {
+width: 700px;
+margin: auto;
+}
+
+h1 {
+   font-size: 20pt;
+
+}
+
+.explanation {
+
+}
+
+.creator {
+   color: gray;
+}
